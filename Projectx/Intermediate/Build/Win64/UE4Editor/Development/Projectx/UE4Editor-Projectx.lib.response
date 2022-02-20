@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Projectx.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Trijam\Projectx\Intermediate\Build\Win64\ProjectxEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Trijam\Projectx\Intermediate\Build\Win64\UE4Editor\Development\Projectx\Projectx.cpp.obj"
+"D:\Trijam\Projectx\Intermediate\Build\Win64\UE4Editor\Development\Projectx\ProjectxGameModeBase.cpp.obj"
+"D:\Trijam\Projectx\Intermediate\Build\Win64\UE4Editor\Development\Projectx\Projectx.init.gen.cpp.obj"
+"D:\Trijam\Projectx\Intermediate\Build\Win64\UE4Editor\Development\Projectx\ProjectxGameModeBase.gen.cpp.obj"
+"D:\Trijam\Projectx\Intermediate\Build\Win64\UE4Editor\Development\Projectx\Default.rc2.res"
+/OUT:"D:\Trijam\Projectx\Intermediate\Build\Win64\UE4Editor\Development\Projectx\UE4Editor-Projectx.lib"

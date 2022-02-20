@@ -1,0 +1,2 @@
+D:\Trijam\Projectx\Intermediate\Build\Win64\UE4Editor\Development\Projectx\Definitions.Projectx.h
+D:\Trijam\Projectx\Source\Projectx\Projectx.h
