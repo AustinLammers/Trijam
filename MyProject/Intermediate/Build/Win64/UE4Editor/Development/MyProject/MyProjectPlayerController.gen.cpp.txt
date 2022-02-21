@@ -1,0 +1,5 @@
+D:\Trijam\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
+D:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Trijam\MyProject\Source\MyProject/MyProjectPlayerController.h
+D:\Trijam\MyProject\Intermediate\Build\Win64\UE4Editor\Inc\MyProject\MyProjectPlayerController.generated.h
